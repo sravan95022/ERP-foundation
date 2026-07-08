@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+erp.db
+server.log
+venv/
+.DS_Store
+test.db
